@@ -23,3 +23,27 @@ act 1.2 casos de uso de zabbix
     - Se puede implementar para supervisar toda una empresa: servidores, redes, máquinas virtuales, aplicaciones y servicios.
     - Los administradores pueden visualizar el estado de la infraestructura desde un solo panel.
     - También permite generar gráficas, reportes y alertas para prevenir fallas.
+-
+
+
+
+
+act 1.3 investigar 3 definiciones de sistemas inteligentes con sus fuentes 
+
+
+
+1.Los sistemas inteligentes son sistemas computacionales que perciben y responden a su entorno mediante dispositivos tecnológicos, utilizando la inteligencia artificial para encontrar soluciones a diferentes problemas.
+
+Fuente: Universidad Autónoma de San Luis Potosí – Ingeniería en Sistemas Inteligentes .
+
+
+
+2.Los sistemas inteligentes son sistemas y métodos que imitan aspectos del comportamiento inteligente, con la finalidad de aprender y obtener nuevos conocimientos de manera autónoma para resolver problemas.
+
+Fuente: Universidad de las Islas Baleares – Máster en Sistemas Inteligentes .
+
+
+
+3.Los sistemas inteligentes son aquellos que presentan un comportamiento similar a la inteligencia humana o animal. Se caracterizan por representar, procesar y modificar conocimientos, además de mejorar su desempeño mediante la experiencia.
+
+Fuente: Universidad Complutense de Madrid – Sistemas Inteligentes .
