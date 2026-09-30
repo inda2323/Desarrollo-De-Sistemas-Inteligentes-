@@ -58,13 +58,16 @@ act 2.4
 
 Definición: Es un algoritmo de aprendizaje supervisado que utiliza una estructura de árbol para tomar decisiones a partir de condiciones y características de los datos. Divide la información en ramas hasta llegar a una predicción o clasificación.
 
+Caso de uso: En un banco, se puede utilizar para determinar si una persona puede recibir un préstamo, considerando sus ingresos, historial crediticio, deudas y capacidad de pago.
 
 
 Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow (3.ª ed.). O'Reilly Media. [https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) 
 
-2. Regresión logística 
+ 2. Regresión logística 
 
 Definición: Es un algoritmo de aprendizaje supervisado que se utiliza principalmente para clasificar datos en categorías. Calcula la probabilidad de que un dato pertenezca a una clase, por ejemplo, determinar si un correo electrónico es spam o no.
+
+Caso de uso: Una empresa de telecomunicaciones puede utilizarlo para predecir si un cliente tiene probabilidad de cancelar su servicio, considerando su antigüedad, uso y número de quejas.
 
 
 James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in Python. Springer. [https://www.statlearning.com/](https://www.statlearning.com/) 
@@ -73,31 +76,43 @@ James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An intr
 
 Definición: Es un algoritmo de aprendizaje supervisado que clasifica un dato nuevo según las categorías de sus K vecinos más cercanos. Utiliza la distancia entre los datos para identificar cuáles son los más similares.
 
+Caso de uso: Una aplicación de reconocimiento puede clasificar una fruta como manzana, naranja o plátano comparando sus características, como tamaño, peso y color, con las de frutas previamente identificadas.
+
+
 James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023). An introduction to statistical learning: With applications in Python. Springer. [https://www.statlearning.com/](https://www.statlearning.com/) 
 
-4. Naive Bayes 
+ 4. Naive Bayes 
 
 Definición: Es un algoritmo de clasificación basado en el teorema de Bayes que calcula la probabilidad de que un dato pertenezca a una categoría. Se llama ingenuo porque asume que las características son independientes entre sí, dada la clase.
+
+Caso de uso: Un sistema de correo electrónico puede utilizarlo para identificar mensajes como spam o no spam, analizando palabras, enlaces y otras características del mensaje.
 
 
 Murphy, K. P. (2012). Machine learning: A probabilistic perspective. MIT Press. [https://mitpress.mit.edu/9780262018029/machine-learning/](https://mitpress.mit.edu/9780262018029/machine-learning/) 
 
- 5. Máquinas de vectores de soporte
+ 5. Máquinas de vectores de soporte (SVM)
 
 Definición: Es un algoritmo de aprendizaje supervisado que se utiliza para clasificación y regresión. Busca encontrar el hiperplano que mejor separa las categorías de datos, maximizando el margen entre ellas.
 
+Caso de uso: En el sector médico, puede utilizarse para clasificar tumores como benignos o malignos a partir de características obtenidas de estudios clínicos, como tamaño, textura y forma.
+
 
 Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning, 20, 273–297. [https://doi.org/10.1007/BF00994018](https://doi.org/10.1007/BF00994018) 
- 6. Bosque aleatorio 
 
-Definición: Es un algoritmo de aprendizaje supervisado que combina múltiples árboles de decisión para realizar predicciones. Cada árbol analiza una muestra de datos y sus resultados se combinan para obtener una predicción final, lo que ayuda a reducir el sobreajuste.
+6. Bosque aleatorio (Random Forest)
+
+Definición: Es un algoritmo de aprendizaje supervisado que combina múltiples árboles de decisión para realizar predicciones. Cada árbol se entrena con muestras y características seleccionadas aleatoriamente, y sus resultados se combinan para obtener una predicción final, lo que ayuda a reducir el sobreajuste.
+
+Caso de uso: Una empresa puede utilizarlo para predecir qué clientes podrían abandonar sus servicios, analizando datos como antigüedad, frecuencia de uso, pagos y quejas.
 
 
 Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow (3.ª ed.). O'Reilly Media. [https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) 
 
- 7. Red neuronal 
+7. Red neuronal 
 
 Definición: Es un modelo de aprendizaje automático inspirado en la estructura del cerebro humano, compuesto por neuronas artificiales organizadas en capas. Aprende patrones a partir de los datos ajustando conexiones y pesos, y se utiliza en tareas como reconocimiento de imágenes, procesamiento del lenguaje y predicción.
+
+Caso de uso: Una aplicación de reconocimiento facial puede utilizar una red neuronal para identificar características de un rostro y compararlas con patrones aprendidos para reconocer a una persona.
 
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press. [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
