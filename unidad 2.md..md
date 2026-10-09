@@ -116,3 +116,13 @@ Caso de uso: Una aplicación de reconocimiento facial puede utilizar una red ne
 
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press. [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)
+
+
+
+
+
+![[Captura de pantalla 2026-10-08 a las 18.10.19.png]]
+
+el breadth-first- search busca del punto verde al rojo mediante un cuadrante de busqueda.![[Captura de pantalla 2026-10-08 a las 18.15.06.png]]
+
+en dijkstra se buscan entre si con todo el cuadrante rojo y verde al mismo tiempo.
