@@ -273,3 +273,48 @@ Russell, S. J., & Norvig, P. (2021). _Artificial intelligence: A modern approac
 University of California, Berkeley. (s. f.). _State spaces and search problems_. CS 188: Introduction to Artificial Intelligence. [https://inst.eecs.berkeley.edu/~cs188/textbook/search/state.html](https://inst.eecs.berkeley.edu/~cs188/textbook/search/state.html)
 
 University of California, Berkeley. (s. f.). _Uninformed search_. CS 188: Introduction to Artificial Intelligence. [https://inst.eecs.berkeley.edu/~cs188/textbook/search/uninformed.html](https://inst.eecs.berkeley.edu/~cs188/textbook/search/uninformed.html)
+
+
+actividad 3.2
+
+
+
+
+
+
+![[Captura de pantalla 2026-10-14 a las 16.08.34.png]]
+aqui va directamente al punto encontrando la ruta mas rapida y no usando todo el mapa.
+
+
+
+
+
+![[Captura de pantalla 2026-10-14 a las 16.03.38.png]]
+aqui con el diagonal activado escanea todo el mapa hasta encontrar la mejor ruta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
