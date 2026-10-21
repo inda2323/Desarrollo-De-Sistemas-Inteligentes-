@@ -292,12 +292,17 @@ aqui va directamente al punto encontrando la ruta mas rapida y no usando todo el
 ![[Captura de pantalla 2026-10-14 a las 16.03.38.png]]
 aqui con el diagonal activado escanea todo el mapa hasta encontrar la mejor ruta.
 
+actividad 3.4
+como se beneficiaron las redes neuronales de las gpus y viceversa 
+
+1. Las redes neuronales se beneficiaron de las GPU: gracias a su procesamiento paralelo, pudieron realizar millones de operaciones matemáticas más rápidamente, reduciendo los tiempos de entrenamiento y permitiendo desarrollar modelos de inteligencia artificial más avanzados.
+
+2. Las GPU se beneficiaron de las redes neuronales: el crecimiento de la inteligencia artificial aumentó la demanda de GPU más potentes y especializadas, impulsando mejoras en su rendimiento, memoria y eficiencia.
 
 
 
 
-
-
+![[Captura de pantalla 2026-10-21 a las 16.34.06.png]]
 
 
 
