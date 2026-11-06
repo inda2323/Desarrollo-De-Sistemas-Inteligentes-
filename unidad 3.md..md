@@ -306,20 +306,5 @@ como se beneficiaron las redes neuronales de las gpus y viceversa
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+act 3.6
+![[Captura de pantalla 2026-11-05 a las 18.24.43.png]]![[Captura de pantalla 2026-11-05 a las 18.24.23.png]]
